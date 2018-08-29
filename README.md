@@ -12,6 +12,8 @@ The run_analysis.R script clean this data and prepare as tidy data by following 
 
 The CodeBook.md describes the variables, the data, and any transformations or work that were performed to clean up the data. 
 
+ The run_analysis.R script and the folder with Samsung data should be saved in the working directory (could be checked by getwd() function).
+
 Source of dataset:
 
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
