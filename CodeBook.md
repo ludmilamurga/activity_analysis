@@ -31,4 +31,4 @@ Processing steps
 - Labels for train and test data from y_train.txt and y_test.txt were merged to the one data frame and then merged with classificator activity_labeles.txt.
 The column with descreptive names was bind with base data frame
 - Subjects for train and test data from subject_train.txt and subject_test.txt were merged to the one data frame and then were bind with base data frame
-- The tidy data set was created containing the mean of each feature for each subject and each activity and saved to tidy.csv.
+- The tidy data set was created containing the mean of each feature for each subject and each activity and saved to tidy.txt.
